@@ -5,8 +5,6 @@ Whatsapp Bulk Messenger automates sending of messages via Whatsapp Web. The tool
 
 Note: The current program is limited to sending only TEXT message
 
-Note: Another version of similar project is available which supports sending media and documents along with text, please reach out to me on [email](mailto:bagrianirudh@gmail.com) for more enquiry.
-
 # Requirements
 
 
@@ -28,7 +26,3 @@ Note: Another version of similar project is available which supports sending med
 6. Scan the QR code to login into whatsapp.
 7. Press `Enter` to start sending out messages.
 8. Sit back and relax!
-
-### Funding
-
-If you like this app, I'd appreciate it if you could make a donation via [Buy Me a Coffee](https://www.buymeacoffee.com/anirudhbagri) or [PayPal.Me](https://paypal.me/AnirudhBagri?locale.x=en_GB).
